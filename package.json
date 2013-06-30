@@ -1,37 +1,32 @@
 {
-	"name": "crc32Crypto",
-	"description": "Crypto-like CRC32 calculation",
-	"version": "0.1.0",
-	"author": {
-		"name": "Anton Khlynovsky",
-		"email": "subzey@gmail.com"
-	},
-	"homepage": "https://github.com/subzey/crc32Crypto",
-	"contributors": [],
-	"main": "lib/crc32crypto.js",
-	"directories": {
-		"lib": "lib"
-	},
-	"engines": {
-		"node": "*"
-	},
-	"repositiory": {
-		"type": "git",
-		"url": "git://github.com/subzey/crc32Crypto.git"
-	},
-	"bugs": {
-		"url": "https://github.com/subzey/crc32Crypto/issues"
-	},
-	"licenses": [
-		{
-			"type": "WTFPL",
-			"url": "http://sam.zoy.org/wtfpl/COPYING"
-		}
-	],
-	"keywords": [
-		"crc32",
-		"checksum",
-		"crypto"
-	],
-	"dependencies": {}
+  "name": "crc32Crypto",
+  "description": "Crypto-like CRC32 calculation",
+  "version": "0.1.0",
+  "author": "Anton Khlynovsky <subzey@gmail.com>",
+  "homepage": "https://github.com/subzey/crc32Crypto",
+  "main": "lib/crc32crypto.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subzey/crc32Crypto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/subzey/crc32Crypto/issues"
+  },
+  "licenses": [
+    {
+      "type": "WTFPL",
+      "url": "http://sam.zoy.org/wtfpl/COPYING"
+    }
+  ],
+  "keywords": [
+    "crc32",
+    "checksum",
+    "crypto"
+  ]
 }
